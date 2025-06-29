@@ -1,6 +1,3 @@
-Sure! Here's a concise and honest `README.md` for your open-source multi-model LLM playground:
-
----
 
 ````markdown
 # 🧠 Multi-Model LLM Playground
@@ -70,4 +67,7 @@ This app currently supports the following Hugging Face models:
 * Performance and availability depend on Hugging Face model hosting.
 * Not optimized for high throughput or production usage.
 Feel free to contribute or fork the repo to extend functionality!
+
+
+![Screenshot 2025-06-29 141933](https://github.com/user-attachments/assets/a4dffbf7-5d1e-49cb-ae9a-747c75f4648a)
 
